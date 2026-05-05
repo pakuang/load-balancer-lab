@@ -23,3 +23,15 @@ load-balancer-workshop/
 ├── load_balancer.py     # File participants edit during the workshop
 ├── server.py            # Defines server behavior, latency, failures, and overloads
 └── README.md
+
+## Basic Workflow
+
+1. Open `load_balancer.py`
+2. Edit the `choose_server()` function
+3. Save the file
+4. Run the simulation from `main.py`
+5. Compare the printed metrics
+6. Try another algorithm
+
+```bash
+python main.py 
