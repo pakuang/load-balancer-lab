@@ -31,9 +31,10 @@ load-balancer-workshop/
 2. Edit the `choose_server()` function
 3. Save the file
 4. Run the simulation from `main.py`
-5. Compare the printed metrics
-6. Try another algorithm
-
 ```bash
 python main.py
 ``` 
+6. Compare the printed metrics
+7. Try another algorithm
+
+
