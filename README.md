@@ -23,6 +23,7 @@ load-balancer-workshop/
 ├── load_balancer.py     # File participants edit during the workshop
 ├── server.py            # Defines server behavior, latency, failures, and overloads
 └── README.md
+```
 
 ## Basic Workflow
 
@@ -34,4 +35,5 @@ load-balancer-workshop/
 6. Try another algorithm
 
 ```bash
-python main.py 
+python main.py
+``` 
